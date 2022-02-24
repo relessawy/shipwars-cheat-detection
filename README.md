@@ -1,7 +1,9 @@
 ## About
 
 A demo for Red Hat OpenShift Streams for Apache Kafka, and Red Hat OpenShift
-Serverless. Provides a "cheat detection" service for the [Shipwars game](https://arcade.redhat.com/shipwars/) used at Red Hat Summit 2021.
+Serverless. Provides a "cheat detection" service for the [Shipwars game](https://arcade.redhat.com/shipwars/).
+
+You can watch a step by step video [here](https://www.youtube.com/watch?v=mbIBl8eMzA4), or follow the instructions in the Readme file.
 
 ![Simplified Architecture](/images/architecture-simple.png)
 
